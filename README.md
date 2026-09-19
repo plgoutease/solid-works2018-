@@ -12,4 +12,5 @@
                        
                        
                        下图为solid works2018一键安装版
-                       <img width="1179" height="410" alt="image" src="https://github.com/user-attachments/assets/499e3fea-88ad-46f2-9885-23becc09c737" />
+<img width="1179" height="410" alt="image" src="https://github.com/user-attachments/assets/1116635d-73b3-448d-93f9-957af5da5f42" />
+
